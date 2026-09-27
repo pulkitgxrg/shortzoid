@@ -2,7 +2,7 @@
 
 ![LICENSE](https://img.shields.io/badge/LICENSE-MIT-blue)
 
-![shortzoid](https://socialify.git.ci/pulkitgarg04/shortzoid/image?font=Source+Code+Pro&language=1&name=1&owner=1&theme=Dark)
+![shortzoid](https://socialify.git.ci/pulkitgxrg/shortzoid/image?font=Source+Code+Pro&language=1&name=1&owner=1&theme=Dark)
 
 ShortZoid is a user-friendly tool built to make URL shortening simple while offering powerful link tracking features.
 
@@ -36,7 +36,7 @@ Open your browser and navigate to [ShortZoid](https://shortzoid.vercel.app/).
 ### Run Locally
 - Clone the project
   ```bash
-    git clone https://github.com/pulkitgarg04/shortzoid
+    git clone https://github.com/pulkitgxrg/shortzoid
   ```
 
 - Go to the project directory
