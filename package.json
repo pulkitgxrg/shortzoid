@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pulkitgarg04/shortzoid.git"
+    "url": "git+https://github.com/pulkitgxrg/shortzoid.git"
   },
   "author": "Pulkit Garg",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pulkitgarg04/shortzoid/issues"
+    "url": "https://github.com/pulkitgxrg/shortzoid/issues"
   },
-  "homepage": "https://github.com/pulkitgarg04/shortzoid#readme",
+  "homepage": "https://github.com/pulkitgxrg/shortzoid#readme",
   "dependencies": {
     "axios": "^1.13.2",
     "bcryptjs": "^3.0.3",
-    "cookie-parser": "^1.4.7",
+    "cookie-parser": "^4.1.0",
     "cors": "^2.8.5",
     "dotenv": "^17.2.3",
     "ejs": "^3.1.10",
